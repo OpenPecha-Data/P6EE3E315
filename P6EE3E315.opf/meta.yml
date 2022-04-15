@@ -1,0 +1,28 @@
+id: P6EE3E315
+initial_creation_type: input
+source_metadata:
+  title: Hagiography of Chos rje chos Grags dpal bzang (1352–1434)
+  author: snyoms las pa kun dga/
+  description: 'Digital version 1.0 {Wylie}; WYLIE COPY of master xml (completed:
+    2019-12-21); revision in process, thematic TEI markup'
+  source: https://sakyaresearch.org
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre (src)
+  - Text input:Google Docs, OCR-processed (Tesseract)
+  - Editorial process:Mathias Fermer (mf)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:blo gsal don grub/ (ld)
+  - Revisions/Corrections:blo gsal don grub/
+  text_witnesses: https://sakyaresearch.org/sources/2388
+  bases:
+    e5cc:
+      title: Hagiography of Chos rje chos Grags dpal bzang (1352–1434)
+      order: 1
+      base_file: e5cc.txt
+created_at: '2022-04-15T19:09:20.146695'
+last_modified_at: '2022-04-15T19:09:20.146702'
+quality: null
